@@ -8,11 +8,11 @@ This is the RRTTE website, which aims to raise awareness about the lack of acces
 <h1>Language Stack</h1>
 
 <div>
-1. HTML
+1. [![My Skills](https://skillicons.dev/icons?i=html&perline=8)](https://skillicons.dev) 
 <br>
-2. CSS
+2. [![My Skills](https://skillicons.dev/icons?i=css&perline=8)](https://skillicons.dev) 
 <br>
-3. Bootstrap (JavaScript framework)
+3. [![My Skills](https://skillicons.dev/icons?i=bootstrap&perline=8)](https://skillicons.dev) 
 </div>
 
 <div><h1>Website Structure:</h1></div>
