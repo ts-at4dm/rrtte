@@ -1,5 +1,9 @@
+<div align="center"> 
+<h1>Brave Behind Bars Final Project</h1>
+</div>
+
 RRTTE: Reducing Recidivism Through Technology & Education
-This is a README file for the RRTTE website, which aims to raise awareness about the lack of access to technology and education within prison systems in the United States. The website advocates for providing these resources to incarcerated individuals to help them reintegrate into society upon release and reduce recidivism rates.
+This is the RRTTE website, which aims to raise awareness about the lack of access to technology and education within prison systems in the United States. The website advocates for providing these resources to incarcerated individuals to help them reintegrate into society upon release and reduce recidivism rates.
 
 Technologies Used:
 
