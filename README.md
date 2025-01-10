@@ -10,7 +10,7 @@ This is the RRTTE website, which aims to raise awareness about the lack of acces
 </div>
 <div align="center">
 
-<a href=""> [![My Skills](https://skillicons.dev/icons?i=html,css,py,go,cs,js,mysql,vscode,neovim,linux,ubuntu,windows,apple,bootstrap,discord&perline=8)](https://skillicons.dev) </a>
+<a href=""> [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&perline=8)](https://skillicons.dev) </a>
 
 </div>
 
