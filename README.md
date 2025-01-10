@@ -9,7 +9,9 @@ This is the RRTTE website, which aims to raise awareness about the lack of acces
 
 <div>
 1. HTML
+<br>
 2. CSS
+<br>
 3. Bootstrap (JavaScript framework)
 </div>
 
