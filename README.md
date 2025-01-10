@@ -8,11 +8,11 @@ This is the RRTTE website, which aims to raise awareness about the lack of acces
 <h1>Language Stack</h1>
 
 <div>
-![](https://skillicons.dev/icons?i=html&perline=8)](https://skillicons.dev) 
+<a href=""> ![](https://skillicons.dev/icons?i=html&perline=8)](https://skillicons.dev) </a>
 <br>
-![](https://skillicons.dev/icons?i=css&perline=8)](https://skillicons.dev) 
+<a href=""> ![](https://skillicons.dev/icons?i=css&perline=8)](https://skillicons.dev) </a>
 <br>
-![](https://skillicons.dev/icons?i=bootstrap&perline=8)](https://skillicons.dev) 
+<a href=""> ![](https://skillicons.dev/icons?i=bootstrap&perline=8)](https://skillicons.dev) </a>
 </div>
 
 <div><h1>Website Structure:</h1></div>
