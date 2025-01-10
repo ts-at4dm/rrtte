@@ -5,11 +5,14 @@
 RRTTE: Reducing Recidivism Through Technology & Education
 This is the RRTTE website, which aims to raise awareness about the lack of access to technology and education within prison systems in the United States. The website advocates for providing these resources to incarcerated individuals to help them reintegrate into society upon release and reduce recidivism rates.
 
-Technologies Used:
+<h1>Language Stack</h1>
 
-HTML
-CSS
-Bootstrap (JavaScript framework)
+<div>
+1. HTML
+2. CSS
+3. Bootstrap (JavaScript framework)
+</div>
+
 Website Structure:
 
 Navigation Bar: Provides links to various sections of the website, including Home, Mission, The Digital Divide, Internet in Prison, Statistics & Conclusion, Subscribe, and Sources.
