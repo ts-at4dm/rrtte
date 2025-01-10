@@ -17,24 +17,26 @@ This is the RRTTE website, which aims to raise awareness about the lack of acces
 
 <div><h1>Website Structure:</h1></div>
 
-Navigation Bar: Provides links to various sections of the website, including Home, Mission, The Digital Divide, Internet in Prison, Statistics & Conclusion, Subscribe, and Sources.
+<ul>
+<li>Navigation Bar: Provides links to various sections of the website, including Home, Mission, The Digital Divide, Internet in Prison, Statistics & Conclusion, Subscribe, and Sources.</li>
 <br>
-Hero Image/Carousel: Features a rotating slideshow of images related to RRTTE's mission.
+<li>Hero Image/Carousel: Features a rotating slideshow of images related to RRTTE's mission.</li>
 <br>
-Main Content: Contains detailed information about the organization's goals and the issues they address. It includes sections on:
+<li>Main Content: Contains detailed information about the organization's goals and the issues they address. It includes sections on:</li>
 <br>
-The Digital Divide: Discusses the gap between incarcerated individuals and access to technology and education.
+<li>The Digital Divide: Discusses the gap between incarcerated individuals and access to technology and education.</li>
 <br>
-Internet in Prison: Explores the potential benefits and concerns regarding internet access for prisoners.
+<li>Internet in Prison: Explores the potential benefits and concerns regarding internet access for prisoners.</li>
 <br>
-Statistics & Conclusion: Presents statistics on recidivism rates and the impact of education and technology access in prison.
+<li>Statistics & Conclusion: Presents statistics on recidivism rates and the impact of education and technology access in prison.</li>
 <br>
-Subscribe: Offers a form to subscribe to the RRTTE newsletter.
+<li>Subscribe: Offers a form to subscribe to the RRTTE newsletter.</li>
 <br>
-Sources: Lists the websites and resources used for content and images.
+<li>Sources: Lists the websites and resources used for content and images.</li>
 <br>
-Footer: Includes links to Privacy Policy, Sitemap, and copyright information.
+<li>Footer: Includes links to Privacy Policy, Sitemap, and copyright information.</li>
 <br>
+</ul>
 <div><h1>Future Enhancements:</h1></div>
 
 Content Management System (CMS): Implement a CMS to allow for easier website updates and content management.
