@@ -8,7 +8,7 @@ This is the RRTTE website, which aims to raise awareness about the lack of acces
 <h1>Language Stack</h1>
 
 </div>
-<div align="center">
+<div align="left">
 
 <a href=""> [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&perline=8)](https://skillicons.dev) </a>
 
