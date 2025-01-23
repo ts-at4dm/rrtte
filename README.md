@@ -17,7 +17,7 @@ This is the RRTTE website, which aims to raise awareness about the lack of acces
 <div><h1>Website Structure:</h1></div>
 
 <ul>
-<li>Navigation Bar: Provides links to various sections of the website, including Home, Mission, The Digital Divide, Internet in Prison, Statistics & Conclusion, Subscribe, and Sources.</li>
+<li>Navigation Bar:: Provides links to various sections of the website, including Home, Mission, The Digital Divide, Internet in Prison, Statistics & Conclusion, Subscribe, and Sources.</li>
 <br>
 <li>Hero Image/Carousel: Features a rotating slideshow of images related to RRTTE's mission.</li>
 <br>
